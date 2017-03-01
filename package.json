@@ -1,0 +1,23 @@
+{
+  "name": "angular-training",
+  "version": "1.0.0",
+  "description": "Angular training materials",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incentro/angular-training.git"
+  },
+  "keywords": [
+    "angular",
+    "training"
+  ],
+  "author": "Pieter Bogaerts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/incentro/angular-training/issues"
+  },
+  "homepage": "https://github.com/incentro/angular-training#readme"
+}
