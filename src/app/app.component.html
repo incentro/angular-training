@@ -4,6 +4,8 @@
 
 Supermarkt naam: <input type="text" [(ngModel)]="supermarketName" placeholder="Voer een naam in" />
 
+<h2>Boodschappen</h2>
+
 <ul>
   <li *ngFor="let product of products">{{product.name}} - ({{product.quantity}})</li>
 </ul>
